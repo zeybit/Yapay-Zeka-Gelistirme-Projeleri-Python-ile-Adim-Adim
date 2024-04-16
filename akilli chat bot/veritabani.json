@@ -1,0 +1,41 @@
+{
+  "sorular": [
+    {
+      "soru": "merhaba",
+      "cevap": "sana da selamlarr"
+    },
+    {
+      "soru": "Nasilsin?",
+      "cevap": "iyiyim siz?"
+    },
+    {
+      "soru": "Turkiyenin yuz olcumu ?",
+      "cevap": "783.562 kilometrekare "
+    },
+    {
+      "soru": "Turkiyenin nufusu ?",
+      "cevap": "kayitlarda 85 milyon ama allah bilir"
+    },
+    {
+      "soru": "en sevdigim cicek ne",
+      "cevap": "sumbul"
+    },
+    {
+      "soru": "Zeynep zivali ne okuyor",
+      "cevap": "yazilim muhendisligi"
+    },
+    {
+      "soru": "kacinci sinif",
+      "cevap": "2."
+    },
+    {
+      "soru": "diferansiyel denklemlerden kac aldi",
+      "cevap": "85/100"
+    },
+   
+    {
+      "soru": "kariyer planlamadan kac aldi",
+      "cevap": "85/100"
+    }
+  ]
+}
